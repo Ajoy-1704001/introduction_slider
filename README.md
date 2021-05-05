@@ -1,6 +1,6 @@
 # introduction_slider
 
-A new Flutter application.
+Here you can get the idea how to implement introduction slider in your app without any external packages.
 
 ## Getting Started
 
