@@ -1,6 +1,8 @@
 # introduction_slider
 
-Here you can get the idea how to implement introduction slider in your app without any external packages.
+Here you can get the idea how to code introduction slider in your app without any external packages.
+Design Credit: <a href='https://www.freepik.com/vectors/business'>Business vector created by pikisuperstar - www.freepik.com</a>
+
 
 <img src="https://user-images.githubusercontent.com/57573642/117106189-4130f700-ada1-11eb-9286-095662bbac2d.gif" width="18%"></img> <img src="https://user-images.githubusercontent.com/57573642/117106207-48f09b80-ada1-11eb-89ed-c84da04cedb6.jpg" width="18%"></img> <img src="https://user-images.githubusercontent.com/57573642/117106209-49893200-ada1-11eb-88d8-fa460029bde1.jpg" width="18%"></img> <img src="https://user-images.githubusercontent.com/57573642/117106211-4a21c880-ada1-11eb-9a32-08c0849ae754.jpg" width="18%"></img> 
 
